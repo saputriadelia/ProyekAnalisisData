@@ -16,8 +16,8 @@ untuk melihat bagaimana faktor cuaca, waktu, dan kondisi lainnya memengaruhi pen
 Proses analisis ini mencakup tahapan *Data Wrangling*, *Exploratory Data Analysis (EDA)*, serta visualisasi data untuk memberikan wawasan yang lebih mendalam.
 """)
 
-day_data = pd.read_csv('day_cleaned.csv')
-hour_data = pd.read_csv('hour_cleaned.csv')
+day_data = pd.read_csv('dashboard/day_cleaned.csv')
+hour_data = pd.read_csv('dashboard/hour_cleaned.csv')
 
 # Data Overview section
 st.header('Data Overview')
