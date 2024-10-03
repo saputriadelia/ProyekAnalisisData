@@ -3,14 +3,14 @@
 Dashboard ini dibuat menggunakan Streamlit untuk menampilkan hasil analisis data penyewaan sepeda secara interaktif. Dalam dashboard ini, pengguna dapat melakukan analisis berdasarkan berbagai filter yang disediakan.
 
 ## Struktur Folder
-submission 
-├───dashboard │ 
-    ├───dashboard.py │ 
-    ├───day_cleaned.csv │ 
-    └───hour_cleaned.csv 
-├───notebook.ipynb 
-├───README.md 
-└───requirements.txt 
+submission
+├───dashboard
+│   ├───dashboard.py
+│   ├───day_cleaned.csv
+│   └───hour_cleaned.csv
+├───notebook.ipynb
+├───README.md
+├───requirements.txt
 └───url.txt
 
 ## Prerequisites
